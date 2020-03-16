@@ -6,8 +6,8 @@ Low complexity implementation of the WaveRNN-based LPCNet algorithm, as describe
 - J.-M. Valin, J. Skoglund, [LPCNet: Improving Neural Speech Synthesis Through Linear Prediction](https://jmvalin.ca/papers/lpcnet_icassp2019.pdf), *Proc. International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, arXiv:1810.11846, 2019.
 
 # Requirements
-Tensorflow-gpu==1.9.0
-Keras==2.2.2
+Tensorflow-gpu==1.9.0<br>
+Keras==2.2.2<br>
 CUDA==9.0 AND CUDNN
 
 # Introduction
