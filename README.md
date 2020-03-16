@@ -1,6 +1,6 @@
 # LPCNet
 
-# Requires
+# Requirements
 Tensorflow-gpu==1.9.0
 Keras==2.2.2
 CUDA==9.0 AND CUDNN
