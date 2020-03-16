@@ -1,5 +1,10 @@
 # LPCNet
 
+# Requires
+Tensorflow-gpu==1.9.0
+Keras==2.2.2
+CUDA==9.0 AND CUDNN
+
 Low complexity implementation of the WaveRNN-based LPCNet algorithm, as described in:
 
 - J.-M. Valin, J. Skoglund, [A Real-Time Wideband Neural Vocoder at 1.6 kb/s Using LPCNet](https://jmvalin.ca/papers/lpcnet_codec.pdf), *Submitted for INTERSPEECH 2019*.
